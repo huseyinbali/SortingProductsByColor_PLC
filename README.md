@@ -10,7 +10,7 @@ CTU Counter Running View
 ![plc3](https://github.com/huseyinbali/SortingProductsByColor_PLC/assets/137905457/b7f4ba94-4b86-4d02-a985-b23062dd4df0)
 Emergency Stop Status.Konveyor Motors will stop.
 ![plc_emstop](https://github.com/huseyinbali/SortingProductsByColor_PLC/assets/137905457/d471ac38-8f6a-4e22-ba29-b5cf3750e38a)
-Counter status while Emergency Stop.
+              Counter status while Emergency Stop.
 ![emstop3](https://github.com/huseyinbali/SortingProductsByColor_PLC/assets/137905457/b948a812-0127-4d9d-9c66-f5df1323a7a6)
 Pusher run when it sees the sensor.
 ![Ekran görüntüsü 2023-07-20 014016](https://github.com/huseyinbali/SortingProductsByColor_PLC/assets/137905457/3fe80132-ff58-4dad-9aef-50a42896890c)
